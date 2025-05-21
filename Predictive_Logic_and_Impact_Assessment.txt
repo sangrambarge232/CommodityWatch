@@ -1,0 +1,20 @@
+Predictive Logic & Impact Assessment:
+
+Predictive Nature:
+- Yes: If the article implies a future change in price or supply/demand.
+- No: If no actionable forecast is evident.
+
+Prediction (if Predictive Nature = Yes):
+- Lower Supply Higher Price
+- Higher Supply Lower Price
+- Lower Demand Lower Price
+- Higher Demand Higher Price
+
+Prediction Maturity Period (in days):
+- Estimate the period in 10, 30, 60, or 90+ days based on lead time and global impact.
+
+Potential Impact:
+- Low: Minor influence on pricing or limited geography.
+- Medium: Region-wide or sector-wide moderate influence.
+- High: Significant global or industry-wide implications.
+- Severe: Immediate or large-scale disruption with critical effects.

@@ -1,0 +1,8 @@
+US Formatting Rules:
+- Convert all currencies to USD.
+  Example: “A$8M” → “USD 5.2M” (converted)
+- Convert metric units to US equivalents:
+  - Celsius → Fahrenheit
+  - Kilometers → Miles
+  - Tonnes → Short Tons
+- Use converted values in headline and summary with “(converted)” as needed.

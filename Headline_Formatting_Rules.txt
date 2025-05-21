@@ -1,0 +1,6 @@
+Headline Formatting Rules:
+- Headlines must be plain ASCII (no special dashes or quotes).
+- When referring to a specific site (mine, smelter, etc.), use the format:
+  “[Action/Subject] [Facility/Event] in City, State, Country”
+- Do not append location as a suffix.
+- For general/global news without a specific site, omit location details.

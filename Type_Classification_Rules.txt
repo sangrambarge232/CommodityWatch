@@ -1,0 +1,8 @@
+Type Classification Rules:
+
+- Market News: Relevant macro or industry news that doesn't predict price movement directly.
+- Risk: News indicating potential price increases (e.g., supply cuts, shutdowns, higher costs).
+- Opportunity: News suggesting potential price decreases (e.g., new capacity, lower input costs).
+- Irrelevant: News with no relevance to commodity pricing.
+
+Always analyze the underlying trigger to classify appropriately.

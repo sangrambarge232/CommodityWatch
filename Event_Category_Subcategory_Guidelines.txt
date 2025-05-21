@@ -1,0 +1,22 @@
+Event Category & Sub-category Guidelines:
+
+1. Price Fluctuation:
+   - Sub-categories: Price Increase, Price Decrease, Forecast - Higher Price, Forecast - Lower Price, Increase < 10%, Decrease < 10%, Other
+
+2. Supply And Demand Balance:
+   - Sub-categories: Supply Increase, Supply Decrease/Shortage, Demand Increase, Demand Decrease, Forecast - Higher Demand, Forecast - Lower Demand, Forecast - Higher Supply, Forecast - Lower Supply, Other
+
+3. Competitive Advantage:
+   - Sub-categories: Auction, New capacity, Surplus Supplies, Other
+
+4. Regulatory Change:
+   - Sub-categories: New Regulation, Regulation Update, Quota Increase, Quota Decrease, Other
+
+5. Business News:
+   - Sub-categories: Business Sale, Merger & Acquisition, Bankruptcy, Profit Warning, Shutdown/Production Cut, Raw Material Disruption, Cargo Disruption, Force Majeure, Other
+
+6. Irrelevant: If not related to price movements
+
+7. Duplicate: If previously covered
+
+Select strictly from these categories and sub-categories based on context.
